@@ -108,6 +108,11 @@ Abra seu navegador e navegue até `http://127.0.0..1:8000/docs` para acessar a d
 └── schemas.py
 ```
 
+## 📸 Screenshots
+
+![food-delivery](https://github.com/user-attachments/assets/39bd9571-f09f-4389-a2b9-ff0b30d6a61e)
+
+
 ## 🤝 Contribuindo
 
 Contribuições são bem-vindas! Siga estes passos:
